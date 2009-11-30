@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>BetterMate</string>
+	<key>ordering</key>
+	<array>
+		<string>F61A9B5A-A31E-45C0-8A08-968A50664CC3</string>
+	</array>
+	<key>uuid</key>
+	<string>34A58937-F116-4966-AF3D-37852780200D</string>
+</dict>
+</plist>
