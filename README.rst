@@ -17,6 +17,7 @@ After you have done. Go back to your TextMate and reload bundles::
 
 Features
 --------
+
 * Remove white spaces before saving documents. (Command+S)
 
 Mailing list
